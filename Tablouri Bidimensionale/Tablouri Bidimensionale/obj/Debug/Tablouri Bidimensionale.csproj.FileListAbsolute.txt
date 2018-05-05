@@ -1,0 +1,21 @@
+C:\Users\mirce\Desktop\INFO\ATESTAT\Tablouri Bidimensionale\Tablouri Bidimensionale\bin\Debug\Tablouri Bidimensionale.exe.config
+C:\Users\mirce\Desktop\INFO\ATESTAT\Tablouri Bidimensionale\Tablouri Bidimensionale\obj\Debug\Tablouri Bidimensionale.csprojResolveAssemblyReference.cache
+C:\Users\mirce\Desktop\INFO\ATESTAT\Tablouri Bidimensionale\Tablouri Bidimensionale\obj\Debug\Tablouri_Bidimensionale.Form1.resources
+C:\Users\mirce\Desktop\INFO\ATESTAT\Tablouri Bidimensionale\Tablouri Bidimensionale\obj\Debug\Tablouri_Bidimensionale.Properties.Resources.resources
+C:\Users\mirce\Desktop\INFO\ATESTAT\Tablouri Bidimensionale\Tablouri Bidimensionale\obj\Debug\Tablouri Bidimensionale.csproj.GenerateResource.Cache
+C:\Users\mirce\Desktop\INFO\ATESTAT\Tablouri Bidimensionale\Tablouri Bidimensionale\bin\Debug\Tablouri Bidimensionale.exe
+C:\Users\mirce\Desktop\INFO\ATESTAT\Tablouri Bidimensionale\Tablouri Bidimensionale\bin\Debug\Tablouri Bidimensionale.pdb
+C:\Users\mirce\Desktop\INFO\ATESTAT\Tablouri Bidimensionale\Tablouri Bidimensionale\obj\Debug\Tablouri Bidimensionale.exe
+C:\Users\mirce\Desktop\INFO\ATESTAT\Tablouri Bidimensionale\Tablouri Bidimensionale\obj\Debug\Tablouri Bidimensionale.pdb
+C:\Users\mirce\Desktop\ATESTAT\Tablouri Bidimensionale\Tablouri Bidimensionale\bin\Debug\Tablouri Bidimensionale.exe.config
+C:\Users\mirce\Desktop\ATESTAT\Tablouri Bidimensionale\Tablouri Bidimensionale\obj\Debug\Tablouri Bidimensionale.exe
+C:\Users\mirce\Desktop\ATESTAT\Tablouri Bidimensionale\Tablouri Bidimensionale\obj\Debug\Tablouri Bidimensionale.pdb
+C:\Users\mirce\Desktop\Admitere\INFO\ATESTAT\Tablouri Bidimensionale\Tablouri Bidimensionale\bin\Debug\Tablouri Bidimensionale.exe.config
+C:\Users\mirce\Desktop\Admitere\INFO\ATESTAT\Tablouri Bidimensionale\Tablouri Bidimensionale\obj\Debug\Tablouri Bidimensionale.exe
+C:\Users\mirce\Desktop\Admitere\INFO\ATESTAT\Tablouri Bidimensionale\Tablouri Bidimensionale\obj\Debug\Tablouri Bidimensionale.pdb
+C:\Users\mirce\Desktop\Admitere\INFO\ATESTAT\Tablouri Bidimensionale\Tablouri Bidimensionale\bin\Debug\Tablouri Bidimensionale.exe
+C:\Users\mirce\Desktop\Admitere\INFO\ATESTAT\Tablouri Bidimensionale\Tablouri Bidimensionale\bin\Debug\Tablouri Bidimensionale.pdb
+C:\Users\mirce\Desktop\Admitere\INFO\ATESTAT\Tablouri Bidimensionale\Tablouri Bidimensionale\obj\Debug\Tablouri Bidimensionale.csprojResolveAssemblyReference.cache
+C:\Users\mirce\Desktop\Admitere\INFO\ATESTAT\Tablouri Bidimensionale\Tablouri Bidimensionale\obj\Debug\Tablouri_Bidimensionale.Form1.resources
+C:\Users\mirce\Desktop\Admitere\INFO\ATESTAT\Tablouri Bidimensionale\Tablouri Bidimensionale\obj\Debug\Tablouri_Bidimensionale.Properties.Resources.resources
+C:\Users\mirce\Desktop\Admitere\INFO\ATESTAT\Tablouri Bidimensionale\Tablouri Bidimensionale\obj\Debug\Tablouri Bidimensionale.csproj.GenerateResource.Cache
